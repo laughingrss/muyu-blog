@@ -104,5 +104,5 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-#  repo: git@github.com:laughingrss/muyu-blog
+ # repo: git@github.com:laughingrss/muyu-blog
   branch: gh-pages
